@@ -1,0 +1,248 @@
+#navigation-bar{
+    width: 100vw;
+    height: 127px;
+    background-color: #6F6AF7;
+    position: relative;
+}
+.Dapprr{
+    width: 215px;
+    height: 63px;
+    top: 27px;
+    left: 44px;
+    position: absolute;
+    font-family: 'Delius Unicase', cursive;
+    font-weight: 700;
+    font-size: 61.43px;
+    line-height: 78.81px;
+    color: #FFFFFF;
+}
+.classs{
+    display: flex;
+    flex-wrap: wrap;
+    position: absolute;
+    top: 41px;
+    left: 0px;
+}
+#home{
+    width: 102px;
+    height: 33px;
+    position: absolute;
+    left: 21rem;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 800;
+    font-size: 36.43px;
+    line-height: 47.43px;
+    color: #FFFFFF;
+}
+#about{
+    width: 157px;
+    height: 36px;
+    position: absolute;
+    left: 30rem;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 800;
+    font-size: 36.43px;
+    line-height: 47.43px;
+    color: #FFFFFF;
+}
+#info{
+    width: 199px;
+    height: 36px;
+    position: absolute;
+    left: 42rem;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 800;
+    font-size: 36.43px;
+    line-height: 47.43px;
+    color: #FFFFFF;
+}
+#more{
+    width: 89px;
+    height: 36px;
+    position: absolute;
+    left: 55.5rem;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 800;
+    font-size: 36.43px;
+    line-height: 47.43px;
+    color: #FFFFFF;
+}
+#a{
+    width: 7.77px;
+    height: 14px;
+    position: absolute;
+    top: 15px;
+    left:62rem;
+    font-family: 'DM Sans', sans-serif;
+    rotate: 90deg;
+    font-weight: 800;
+    font-size: 36.43px;
+    line-height: 47.43px;
+    color: #FFFFFF;
+}
+#search{
+    width: 314px;
+    height: 57px;
+    position: absolute;
+    top: 36px;
+    left: 64rem;
+    border-radius: 63px;
+    color: #FFFFFF;
+}
+#searchh{
+    width: 26px;
+    height: 26px;
+    position: absolute;
+    top: 55px;
+    left: 81rem;
+    color: #FFFFFF;
+}
+#menu{
+    width: 67px;
+    height: 46.61px;
+    position: absolute;
+    top: 38.84px;
+    left: 87rem;
+    color: #FFFFFF;
+}
+#section {
+    width: 100vw;
+    height: 1695px;
+    position: relative;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#sectionn {
+    position: absolute;
+    top: 162px;
+    left: 5rem;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#imagee {
+    position: absolute;
+    top: 5px;
+    left: 5rem;
+    width: 25rem;
+    height: 480px;
+    border-radius: 20px;
+}
+
+#rect4 {
+    position: absolute;
+    width: 45rem;
+    height: 480px;
+    left: 34rem;
+    border-radius: 20px;
+    border: 6px solid #FFFFFF;
+    background-color: #E5D8FF;
+}
+p#texttt{
+    padding: 20px;
+    margin: 20px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 22px;
+    font-weight: 800;
+    color: #6F7373;
+}
+
+#boxex{
+    height: 250px;
+    width: 93vw;
+    position: absolute;
+    top: 650px;
+    left: 0px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:  space-between;
+    align-items: center;
+    margin: 10px;
+    padding: 50px;
+}
+
+.box {
+    width: 18rem;
+    height: 145.48px;
+    padding: 10px;
+    border-radius: 11px;
+}
+
+#box1 {
+    background-color: #929DEF;
+}
+
+#box2 {
+    background-color: #734CF2;
+}
+
+#box3 {
+    background-color: #D288FF;
+}
+
+#box4 {
+    background-color: #000000;
+}
+#lastrec{
+    width: 75rem;
+    height: 500px;
+    background-color: blue;
+    position: relative;
+    top: 1030px;
+    left: 7rem;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    padding: 50px;
+    row-gap: 20px;
+    column-gap: 20px;
+    border-radius: 21px;
+}
+#mainnn{
+    display: flex;
+    flex-flow: column;
+    padding: 25px;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#first{
+    width: 15rem;
+    height: 120px;
+    background-color: #BCE0F6;
+    border: 5px solid #BCE0F6;
+    border-radius: 21px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+    text-align: center;
+}
+#second{
+    background-color: #FFFFFF;
+    border-radius: 21px;
+}
+#third{
+    width: 15rem;
+    height: 120px;
+    border: 5px solid white;
+    border-radius: 21px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+    text-align: center;
+    color: white;
+}
+#fourth{
+    width: 15rem;
+    height: 120px;
+    border: 5px solid white;
+    border-radius: 21px;
+    font-family: 'DM Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 800;
+    text-align: center;
+    color: white;
+}
